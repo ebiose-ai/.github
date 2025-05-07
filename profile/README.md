@@ -8,6 +8,9 @@
 
   </h3>
 </div>
+
+### LAUNCHING SOON! ⏳⌛
+
 </br>
 Ebiose is an open-source project creating a distributed AI ecosystem of autonomous agents that self-improve.
 
